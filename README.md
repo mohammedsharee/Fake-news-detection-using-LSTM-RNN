@@ -1,5 +1,5 @@
 # Fake-news-detector-using-LSTM-RNN
-Developed a machine learning model to identify when an article might be fake news by using LSTM(Long Short Term Memory) Recurrent Neural Network
+Developed a Deep learning model to identify when an article might be fake news by using LSTM(Long Short Term Memory) Recurrent Neural Network
 # Dataset
 Data set is given on kaggle website https://www.kaggle.com/c/fake-news/data
 # Tasks
